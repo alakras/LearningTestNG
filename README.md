@@ -9,5 +9,7 @@ with my experience with LearningGit, i should not spend too much time for TestNG
     crossbrowser capability
     Test suit 
     paremeerization
-    
+   
+   I think if i follow below playlist of you tube videos.. i will be done..  its fromnaveen automation labs
+   https://www.youtube.com/playlist?list=PLFGoYjJG_fqp25buwscrsKA5q8qsLsuUy
   
