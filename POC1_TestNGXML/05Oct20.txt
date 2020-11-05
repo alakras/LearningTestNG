@@ -1,0 +1,1 @@
+This is POC to create a TestNG.XML file similar to present in this folder in Eclipse, this proves below concepts
