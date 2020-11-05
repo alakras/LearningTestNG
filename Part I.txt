@@ -1,0 +1,36 @@
+TestNG Framework- Selenium Tutorial Part-1
+https://www.youtube.com/watch?v=0Gew2XOuum8&list=PLFGoYjJG_fqp25buwscrsKA5q8qsLsuUy&index=1
+1:03:16
+Notes:
+
+Testing New generation.. unitlevel test framework
+its open source.. free
+available in jar files
+
+Why Test NG
+	generate html report
+	provides lot of annotation
+	different fesature like priority, sequence, dependency, define 	grouping
+	most important is data provider feature - one test case executio 	with different set of data
+Its called as TDD framework - test drivern developemnt
+
+2-Nov:
+How to install testNG in eclipse
+	TestNG plugin for Eclipse
+	Help>>install software>> http://dl.bintray.com/testng-team/testng-eclipse-release/
+	*TestNG is available inform of Jar file
+	*every annotation should have a method associated
+
+Excercise: I created on test NG class and andded the different annotations to understand their sequence of execution
+Sequence is 
+@BeforeSuit
+@BeforeTest
+@BeforeClass
+
+
+@BeforeMethod
+@Test
+@AfterMethod
+
+@AfterTest
+@AfterClass

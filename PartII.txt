@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=NqN3JNpZZiY
+TestNG framework part II
+Time:58:11
+
+How to user priority keyword to prioritize the test cases?if you dont priorotize them in what sequence they get executed
+
+how to use dependsonmethod keyword to establish dependency between test cases
+
+when would you use invocationCount keyword?
+for data dumping purpose if you want to execute a test case many times then you can use invoacationCount keyword.
+
+how to handle expectedEsceptions in TestNG without TryCatch block
+
+After that looked at Assert class and its methods like Assert.Equals and Assert.true etc
+
+then what is test suite concept.. now i understood how it got used in element project.. in addition to basic we can pass parameters to tests through this xml file also i have seen listener tag in xml file where pdf generator classes are passed on. need to create a POC for same.
+
+listener in testNG
+https://www.guru99.com/listeners-selenium-webdriver.html
+
