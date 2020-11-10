@@ -1,1 +1,21 @@
 This is POC to create a TestNG.XML file similar to present in this folder in Eclipse, this proves below concepts
+
+how to pass parameters from TestNG XML file to test script/ test class
+
+9-Oct-20
+
+1. we can run the testng test through an XML file, XML file will have referencde of the test class.
+
+Question was 
+from where to get this XML and where to put in project strucutre
+We can get it from and it need to be put under src/test/resoruces, you can create a folder and keep it there, like we have two folder here Regression and sanity and have XML for those tests underneath.
+
+I had created a source folder underwhich created an XML, 
+
+Parameterization of values was an important aspect to learn which is one of the advantage of using TestNG
+
+when i searched on google it looks like to read xml file parameters we need to use some libraries but if we are using TestNG it take cares of it.
+
+got a good link, where it is very streight forward, however in actual project i can see map is used for this and it routes from multiple places but i think it would be there for some good reason of isolation
+https://howtodoinjava.com/testng/testng-parameters/
+https://www.youtube.com/watch?v=Cfj2BGJDzyw
